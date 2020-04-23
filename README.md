@@ -1,2 +1,2 @@
 #MyApp
-my app
+New App
